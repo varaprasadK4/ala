@@ -30,8 +30,5 @@ Dependencies:
 Python (3.0 recommended)
 tkinter library (usually included with Python installations)
 
-<img width="966" alt="ai-1" src="https://github.com/varaprasadK4/alarm_clock/assets/128315773/9313b6b5-33f9-4a69-af73-01bc0837cd21">
-![alarm2](https://github.com/varaprasadK4/alarm_clock/assets/128315773/8aa1d1bd-301d-410f-99f1-9b7288c65bb8)
-
-![alarm3](https://github.com/varaprasadK4/alarm_clock/assets/128315773/2ea8c42d-4baa-41f8-9023-f3d331212814)
+<img width="482" alt="a1" src="https://github.com/varaprasadK4/alarm_clock/assets/128315773/01415dd7-31c1-49c6-bdf6-ff006e08a7e7">
 
