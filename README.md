@@ -32,3 +32,6 @@ tkinter library (usually included with Python installations)
 
 <img width="482" alt="a1" src="https://github.com/varaprasadK4/alarm_clock/assets/128315773/01415dd7-31c1-49c6-bdf6-ff006e08a7e7">
 
+<img width="482" alt="a2" src="https://github.com/varaprasadK4/alarm_clock/assets/128315773/a3ea14ee-3bc3-4b76-9d9f-30b8dfe1e574">
+
+<img width="482" alt="a3" src="https://github.com/varaprasadK4/alarm_clock/assets/128315773/dfc73b40-8631-4609-8986-e0bad553c3d8">
